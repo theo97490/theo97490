@@ -10,7 +10,7 @@ Two-Refinement, Steven J. Owena, Ryan M. Shih)
 
 **Expériences professionnelles**
 Majoritairement dans le web:
-* **Pilote prévention, Handiacteur360:** 2 stages 2022-23, Création d'une plateforme de recherche de métier dédié aux personnes en situations d'handicap et à leur suivi, intégrant des vidéos 360 et visible depuis un casque de réalité virtuelle
+* **Pilote prévention, Handiacteur360:** 2 stages 2022-23, Création d'une plateforme de recherche de métier dédié aux personnes en situations d'handicap et à leur suivi, intégrant des vidéos 360 et visible depuis un casque de réalité virtuelle (Fullstack)
 * **Processium** : Stage 2021, Internationalisation de l'applicatione e-thermo
 
 **Etudes**
