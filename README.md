@@ -10,6 +10,7 @@ Two-Refinement, Steven J. Owena, Ryan M. Shih)
   * [Lien vers la branche](https://github.com/theo97490/cgal/tree/gsoc2024-hexahedral_mesh_generation-tbenard)
   * [Lien vers le gist](https://gist.github.com/theo97490/961d6e67d6456d660067f5229368099c)
   * [Lien vers le pull request](https://github.com/CGAL/cgal/pull/8445)
+* CGAL : Développement du Basic Viewer OpenGL pour remplacer le viewer Qt avec Théo Grillon.
 
 **Projets personnels**
 * Unity, C#: Bullet Hell, Touhou like, utilisant la stack DOTS/ECS de unity [Vidéos](https://www.dropbox.com/scl/fo/d69pcyqmqhc3y5ub21zj0/APkncxOZY2Dym2R8J4I-QxI?rlkey=556oe6rgj569wbb9jyxurl2h7&st=bwr71rrv&dl=0)
