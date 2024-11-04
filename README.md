@@ -29,4 +29,4 @@ Majoritairement dans le web:
 * Neovim, suivi de Vscode/Jetbrains en alternative
 
 **Langages utilisés**
-Du plus utilisé au moins utilisé: C++, C# (Unity), JS/TS, python, java, PHP.
+Du plus utilisé au moins utilisé: C++, JS/TS, C# (Unity), python, rust, java.
