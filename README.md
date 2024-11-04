@@ -13,7 +13,7 @@ Two-Refinement, Steven J. Owena, Ryan M. Shih)
 * CGAL : Développement du Basic Viewer OpenGL pour remplacer le viewer Qt avec Théo Grillon.
 
 **Projets personnels**
-* Unity, C#: Bullet Hell, Touhou like, utilisant la stack DOTS/ECS de unity [Vidéos](https://www.dropbox.com/scl/fo/d69pcyqmqhc3y5ub21zj0/APkncxOZY2Dym2R8J4I-QxI?rlkey=556oe6rgj569wbb9jyxurl2h7&st=bwr71rrv&dl=0)
+* Unity, C#: Bullet Hell, Touhou like, utilisant la stack DOTS/ECS de unity [Vidéos](https://www.dropbox.com/scl/fo/d69pcyqmqhc3y5ub21zj0/APkncxOZY2Dym2R8J4I-QxI?rlkey=mcqn0wlprrs54c857zh14rqqt&st=g03jhr87&dl=0)
 
 **Expériences professionnelles**
 Majoritairement dans le web:
