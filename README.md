@@ -2,7 +2,9 @@
 <benard320@gmail.com>
 
 Etudiant en informatique graphique à Lyon1 en dernière année de master et recherche un stage en informatique graphique.
-Passionnée dans la géométrie et le rendu temps réel de scène 3D. Cherche également à m'investir dans un nouveau langage tel que Rust / Zig ou autre.
+Passionnée dans la géométrie, le rendu temps réel de scène 3D et le jeu vidéo en général.
+
+Seul une poignée de projet est en public sur mon github, contactez moi pour avoir le code source d'un projet mentionné dans mon CV par exemple.
 
 **Open Source**
 * GSOC 2024 : Contribution à la librairie CGAL : Hexahedral Mesh Generation ( En suivant le papier : A Template-Based Approach for Parallel Hexahedral
