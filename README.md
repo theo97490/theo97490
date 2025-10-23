@@ -25,4 +25,4 @@ Two-Refinement, Steven J. Owena, Ryan M. Shih)
 *  Vscode/Vs/Jetbrains, Vim/Neovim
 
 **Langages de programmations**
-* C++, C# (Unity), JS/TS, python, rust, java.
+* C++, C# (Unity), rust, JS/TS, python, java.
