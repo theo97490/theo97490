@@ -1,10 +1,13 @@
 ## Théo Bénard
-<benard320@gmail.com>
+* <benard320@gmail.com>
+* [Linkedin](https://www.linkedin.com/in/th%C3%A9o-b%C3%A9nard-4380751bb/)
 
-Etudiant en informatique graphique à Lyon1 en dernière année de master et recherche un stage en informatique graphique.
-Passionnée dans la géométrie, le rendu temps réel de scène 3D et le jeu vidéo en général.
+Open To Work
 
-Seul une poignée de projet est en public sur mon github, contactez moi pour avoir le code source d'un projet mentionné dans mon CV par exemple.
+Je développe actuellement un MVP / Démo technique de mon jeu bullet hell basé sur Touhou entre les recherches d'emplois
+
+Seul une poignée de projet est en public sur mon github, je recommande de passer un coup d'oeuil sur mes contributions CGAL
+
 
 **Open Source**
 * GSOC 2024 : Contribution à la librairie CGAL : Hexahedral Mesh Generation ( En suivant le papier : A Template-Based Approach for Parallel Hexahedral
@@ -15,20 +18,11 @@ Two-Refinement, Steven J. Owena, Ryan M. Shih)
 * CGAL : Développement du Basic Viewer OpenGL pour remplacer le viewer Qt avec Théo Grillon.
 
 **Projets personnels**
-* Unity, C#: Bullet Hell, Touhou like, utilisant la stack DOTS/ECS de unity [Vidéos](https://www.dropbox.com/scl/fo/d69pcyqmqhc3y5ub21zj0/APkncxOZY2Dym2R8J4I-QxI?rlkey=mcqn0wlprrs54c857zh14rqqt&st=g03jhr87&dl=0)
-
-**Expériences professionnelles**
-Majoritairement dans le web:
-* **Pilote prévention, Handiacteur360:** 2 stages 2022-23, Node/TS/Angular Création d'une plateforme de recherche de métier dédié aux personnes en situations d'handicap et à leur suivi, intégrant des vidéos 360 et visible depuis un casque de réalité virtuelle (Fullstack)
-* **Processium** : Stage 2021, TS/Angular Internationalisation de l'applicatione e-thermo
-
-**Etudes**
-* **Master ID3D** : Lyon1 2023-25 
-* License 3 : Lyon1 2022-23
-* DUT Informatique : Lyon1 2020-22
-
+* Unity, C#: Bullet Hell, Touhou like, utilisant la stack DOTS/ECS de unity [Anciennes Vidéos](https://www.dropbox.com/scl/fo/d69pcyqmqhc3y5ub21zj0/APkncxOZY2Dym2R8J4I-QxI?rlkey=mcqn0wlprrs54c857zh14rqqt&st=g03jhr87&dl=0)
+* Tower Greed en collaboration avec Théo Grillon et Benoît Huftier [Vidéos](https://www.dropbox.com/scl/fi/85z7vbkqzeza6fdbp9551/trailer-gameplay.mp4?rlkey=iun0ebh7kw9y7kxscx2oosreo&st=v0vdwiqc&dl=0)
+  
 **Outils**
-* Neovim, suivi de Vscode/Jetbrains en alternative
+*  Vscode/Vs/Jetbrains, Vim/Neovim
 
-**Langages utilisés**
-Du plus utilisé au moins utilisé: C++, JS/TS, C# (Unity), python, rust, java.
+**Langages de programmations**
+* C++, C# (Unity), JS/TS, python, rust, java.
